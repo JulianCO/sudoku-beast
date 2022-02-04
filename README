@@ -1,0 +1,7 @@
+Sudoku Beast
+====
+
+A fast-performing sudoku solver implementing Donald Knuth's dancing links 
+algorithm. It outputs the steps to the solution in JSON format for use in other
+applications.
+
